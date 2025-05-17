@@ -3,8 +3,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=21434809" alt="21434809" /></a> </p>
 
-- 🔭 I’m currently working on [Echo](https://github.com/COS301-SE-2024/ECHO)
-
 - 🌱 I’m currently learning **Security**
 
 - ⚡ Fun fact **I'm a Ginger**
