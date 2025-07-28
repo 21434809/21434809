@@ -1,8 +1,6 @@
 <h1 align="center">Hi 🦊, I'm Rueben</h1>
 <h3 align="center">A passionate Software Engineer from South Africa</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=21434809" alt="21434809" /></a> </p>
-
 - 🌱 I’m currently learning **Security**
 
 - ⚡ Fun fact **I'm a Ginger**
